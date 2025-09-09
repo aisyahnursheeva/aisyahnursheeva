@@ -5,7 +5,7 @@
 
 <!-- Profile Photo -->
 <p align="center">
-  <img src="Aisy.png" alt="Aisyah Nur Syifa" width="200" height="200" style="border-radius:50%">
+  <img src="Screenshot 2025-08-01 090432.png" alt="Aisyah Nur Syifa" width="200" height="200" style="border-radius:50%">
 </p>
 
 ---
