@@ -5,13 +5,13 @@
 
 <!-- Profile Photo -->
 <p align="center">
-  <img src="Aisy.jpg" alt="Aisyah Nur Syifa" width="200" height="200" style="border-radius:50%">
+  <img src="Aisy.png" alt="Aisyah Nur Syifa" width="200" height="200" style="border-radius:50%">
 </p>
 
 ---
 
 ### ೀ⋆｡🌷About Me 𐔌՞. .՞𐦯 ִ ࣪𖤐
-🌱 I’m Aisyah, a curious mind who loves learning new things in **IT and creative design**.  
+🌱 call me Aisy (read like ice), a curious mind who loves learning new things in **IT and creative design**.  
 💡 My passion lies in crafting **beautiful, functional experiences** through web & app design.  
 🌍 Beyond tech, I enjoy **traveling** and finding inspiration from different cultures.  
 ✨ I believe design is not just about how it looks — but how it makes people feel.  
